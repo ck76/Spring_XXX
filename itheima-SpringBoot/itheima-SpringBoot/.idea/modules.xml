@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Springboot_16_log4j2/Springboot_16_log4j2.iml" filepath="$PROJECT_DIR$/Springboot_16_log4j2/Springboot_16_log4j2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot_03_yml/src/main/main.iml" filepath="$PROJECT_DIR$/springboot_03_yml/src/main/main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot_04_junit/src/main/main1.iml" filepath="$PROJECT_DIR$/springboot_04_junit/src/main/main1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot_08_ssmp/src/main/main10.iml" filepath="$PROJECT_DIR$/springboot_08_ssmp/src/main/main10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot_09_config/src/main/main11.iml" filepath="$PROJECT_DIR$/springboot_09_config/src/main/main11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot_02_baseconfiguration/src/main/main12.iml" filepath="$PROJECT_DIR$/springboot_02_baseconfiguration/src/main/main12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot_13_configuration/src/main/main13.iml" filepath="$PROJECT_DIR$/springboot_13_configuration/src/main/main13.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot_15_shiro_zhujie/src/main/main14.iml" filepath="$PROJECT_DIR$/springboot_15_shiro_zhujie/src/main/main14.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot_11_slf4j/src/main/main15.iml" filepath="$PROJECT_DIR$/springboot_11_slf4j/src/main/main15.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot_01_01_quickstart/src/main/main16.iml" filepath="$PROJECT_DIR$/springboot_01_01_quickstart/src/main/main16.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot_10_profiles/src/main/main2.iml" filepath="$PROJECT_DIR$/springboot_10_profiles/src/main/main2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot_07_druid/src/main/main3.iml" filepath="$PROJECT_DIR$/springboot_07_druid/src/main/main3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot_01_02_quickstart/src/main/main4.iml" filepath="$PROJECT_DIR$/springboot_01_02_quickstart/src/main/main4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot_0x_xxxxxxxxxxxx/src/main/main5.iml" filepath="$PROJECT_DIR$/springboot_0x_xxxxxxxxxxxx/src/main/main5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot_06_mybatis_plus/src/main/main6.iml" filepath="$PROJECT_DIR$/springboot_06_mybatis_plus/src/main/main6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot_14_shiro/src/main/main7.iml" filepath="$PROJECT_DIR$/springboot_14_shiro/src/main/main7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot_05_mybatis/src/main/main8.iml" filepath="$PROJECT_DIR$/springboot_05_mybatis/src/main/main8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot_12_hot_deploy/src/main/main9.iml" filepath="$PROJECT_DIR$/springboot_12_hot_deploy/src/main/main9.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot_11_slf4j/springboot_11_slf4j.iml" filepath="$PROJECT_DIR$/springboot_11_slf4j/springboot_11_slf4j.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/sprintboot_study.iml" filepath="$PROJECT_DIR$/.idea/sprintboot_study.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot_10_profiles/src/test/test.iml" filepath="$PROJECT_DIR$/springboot_10_profiles/src/test/test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot_02_baseconfiguration/src/test/test1.iml" filepath="$PROJECT_DIR$/springboot_02_baseconfiguration/src/test/test1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot_13_configuration/src/test/test10.iml" filepath="$PROJECT_DIR$/springboot_13_configuration/src/test/test10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot_07_druid/src/test/test11.iml" filepath="$PROJECT_DIR$/springboot_07_druid/src/test/test11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot_15_shiro_zhujie/src/test/test12.iml" filepath="$PROJECT_DIR$/springboot_15_shiro_zhujie/src/test/test12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot_14_shiro/src/test/test13.iml" filepath="$PROJECT_DIR$/springboot_14_shiro/src/test/test13.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot_06_mybatis_plus/src/test/test14.iml" filepath="$PROJECT_DIR$/springboot_06_mybatis_plus/src/test/test14.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot_01_02_quickstart/src/test/test15.iml" filepath="$PROJECT_DIR$/springboot_01_02_quickstart/src/test/test15.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot_05_mybatis/src/test/test16.iml" filepath="$PROJECT_DIR$/springboot_05_mybatis/src/test/test16.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot_09_config/src/test/test2.iml" filepath="$PROJECT_DIR$/springboot_09_config/src/test/test2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot_12_hot_deploy/src/test/test3.iml" filepath="$PROJECT_DIR$/springboot_12_hot_deploy/src/test/test3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot_11_slf4j/src/test/test4.iml" filepath="$PROJECT_DIR$/springboot_11_slf4j/src/test/test4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot_08_ssmp/src/test/test5.iml" filepath="$PROJECT_DIR$/springboot_08_ssmp/src/test/test5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot_03_yml/src/test/test6.iml" filepath="$PROJECT_DIR$/springboot_03_yml/src/test/test6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot_01_01_quickstart/src/test/test7.iml" filepath="$PROJECT_DIR$/springboot_01_01_quickstart/src/test/test7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot_04_junit/src/test/test8.iml" filepath="$PROJECT_DIR$/springboot_04_junit/src/test/test8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot_0x_xxxxxxxxxxxx/src/test/test9.iml" filepath="$PROJECT_DIR$/springboot_0x_xxxxxxxxxxxx/src/test/test9.iml" />
+    </modules>
+  </component>
+</project>
